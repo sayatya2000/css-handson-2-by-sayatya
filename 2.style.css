@@ -1,0 +1,140 @@
+*{margin: 0px;
+padding: 0px; }
+body{margin: 0px;
+  border: 10px groove rgb(0, 255, 0);
+  height: 2200px;
+  background-image: url(sky\ color.avif);
+
+  background-repeat: no-repeat;
+  background-size:cover;}
+.container1{
+padding-left: 30px;
+padding-top: 20px;
+display: flex;
+}
+
+
+.one{margin-top: 20px;
+  margin-left: 50px;
+  font-style: italic;
+  font-weight: 600;
+  font-size: x-large;
+  border: 6px solid red;
+  border-radius: 20px;
+  padding: 30px;
+     background-color: black;
+     color: white;
+    text-transform: capitalize;
+    text-align: center;
+  height: 100px;
+  width:300px ;}
+  .two{      
+     margin: -50px;
+    margin-top: 40px;
+    margin-left: -130px;
+    font-style: italic;
+    font-weight: 600;
+  font-size: x-large;
+    border: 6px solid red;
+    border-radius: 20px;
+    padding-top: 40px;
+    padding-right: 10px;
+       background-color: black;
+       color: white;
+      text-transform: capitalize;
+      text-align:end;
+    height: 50px;
+    width:400px ;}
+  .three{margin-top: 20px;
+    margin-left: 250px;
+    margin-right: 40px;
+    font-style: italic;
+    font-weight: 600;
+  font-size: x-large;
+    border: 6px solid red;
+    border-radius: 20px;
+    padding-top: 40px;
+       background-color: black;
+       color: white;
+      text-transform: capitalize;
+      text-align: center;
+    height: 150px;
+    width:400px ;
+    }
+    .container2{padding-left: 40px;
+    display:flex;}
+
+    .four{
+      border: 8px solid rgb(70, 69, 69);
+      background-color: rgb(39, 82, 95);text-align: center;
+      font-size: x-large;
+      font-style: italic;
+      align-items: center;
+      justify-content: space-around;
+        text-decoration: underline;
+          height: 300px;
+          width: 470px;
+     
+          border-radius: 50%;
+          padding-top: 180px;
+        margin-top: 250px;
+      
+       margin-bottom: 60px;
+     
+    }
+
+.five{ 
+  padding-top: 40px;
+      
+      margin: auto;
+      margin-bottom: 50px;
+      text-align: center;
+      text-transform: capitalize;
+      text-size-adjust: 50%;
+    border: 6px dashed;
+      border-color:rgb(216, 16, 16);
+    height: 600px;
+    width: 400px;
+  background-color: rgb(250, 250, 250);} 
+h1{color: rgb(231, 85, 85);
+text-transform: uppercase;}
+.text{color: rgb(231, 85, 85);}
+.btn{ padding:5px 2px ;
+background-color:  rgb(231, 85, 85);
+text-transform: capitalize;}
+
+.container3{border: 6px solid red;
+            border-radius: 40px;
+          text-align: center;
+          font-style: italic;
+          
+          background-color: black;
+        color: white;
+        width: 400px;
+      height: 60px;
+       padding-top: 20px;
+      margin:auto;
+    margin-top: 50px;}
+  .container4{display:flex}
+  .container5{display:flex}
+
+
+  .food1{padding: 50px ;
+    padding-top: 20px;
+    margin: 40px;
+    font-size: x-large;
+    font-weight: 300;
+  border: 5px rgb(4, 73, 4) solid;
+border-radius: 30px;
+color: blueviolet;
+background-color: rgb(53, 218, 218);
+text-align: center;
+text-transform: capitalize;
+height: 300px;
+width: 400px;
+box-shadow: 15px 15px 20px;}
+.btn{padding: 5px;}
+
+.food2{height: 300px;
+width: 400px;}
+
